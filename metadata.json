@@ -1,0 +1,6 @@
+{
+  "name": "IJ Billing Network - ISP Billing System",
+  "description": "IJ Billing Network (আইজে বিলিং নেটওয়ার্ক) - Comprehensive ISP billing, automated customer dues, instant SMS & WhatsApp receipts, and offline backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
